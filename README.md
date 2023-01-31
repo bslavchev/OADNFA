@@ -3,6 +3,10 @@ One Algorithm Does Not Fit All - a Machine Learning-based meta-solver for the tr
 
 ## Introduction
 
+Multiple good treewidth solvers exist, and while some are better "on average" than others, that is clearly not the best way to select which solver to execute. As we demonstrated in our [2019 paper](https://www.mdpi.com/1999-4893/12/10/200), even a rudimentary Machine Learning algorithm selection approach can dramatically improve performance by selecting a solver from a portfolio for each problem instance on an online case-by-case basis.
+
+OADNFA is our practical implementation of the algorithm proposed in our paper.
+
 ## Roadmap
 
 - ~~Containerize treewidth solvers~~ **DONE**, available [here](https://github.com/containerized-PACE/treewidth).
