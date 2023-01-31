@@ -17,5 +17,5 @@ OADNFA is our practical implementation of the algorithm proposed in our paper.
 
 ## Wishlist
 These are roadmap items that have not found a place on the roadmap yet.
-
+- optimize Docker containers for size
 -
