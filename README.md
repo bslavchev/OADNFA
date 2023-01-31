@@ -9,7 +9,7 @@ OADNFA is our practical implementation of the algorithm proposed in our paper.
 
 ## Roadmap
 
-- [x] Containerize treewidth solvers **DONE**, available [here](https://github.com/containerized-PACE/treewidth).
+- [x] Containerize treewidth solvers (available [here](https://github.com/containerized-PACE/treewidth)).
 - [ ] Write a critical review report of thesis project
 - [ ] Re-develop ML model, taking findings of critical review into account
 - [ ] Develop dispatcher script that allows the ML model to execute the solvers
